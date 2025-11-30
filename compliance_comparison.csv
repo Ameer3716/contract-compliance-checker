@@ -1,0 +1,28 @@
+Rule ID,Category,Rule,Status,Evidence,Source Document
+R001,Termination,Contract must specify termination notice period...,NON-COMPLIANT,"shall require longer notice periods than those set forth above, this Agreement is deemed amended to ...",SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1.pdf
+R002,Confidentiality,Contract must define confidentiality obligations...,NON-COMPLIANT,"13. CONFIDENTIALITY
+(a) Obligation:
+Each Party acknowledges that all Confidential Information consis...",EhaveInc_20190515_20-F_EX-4.44_11678816_EX-4.44_License Agreement_ Reseller Agreement.pdf
+R003,Liability,Contract must include limitation of liability clause...,NON-COMPLIANT,13. Limitation of Liability. EXCEPT IN THE EVENT OF A BREACH OF SECTION 8 (CONFIDENTIALITY) OR LIABI...,PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement1.pdf
+R004,Legal,Contract must specify governing law and jurisdiction...,NON-COMPLIANT,Section 14.7 Dispute Resolution.   (a) Governing Law. This Agreement shall be binding on the Parties...,DigitalCinemaDestinationsCorp_20111220_S-1_EX-10.10_7346719_EX-10.10_Affiliate Agreement.pdf
+R005,IP Rights,Contract must define intellectual property rights...,NON-COMPLIANT,"identifiers, handles and tags.
+“Intellectual Property Assignment Agreements ” has the meaning set fo...",CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.pdf
+R006,Payment,Contract must include payment terms and schedule...,NON-COMPLIANT,"worker’s compensation, and the withholding and payment of applicable Taxes relating to such employme...",ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.pdf
+R007,Indemnification,Contract must specify indemnification provisions...,NON-COMPLIANT,"9. INDEMNIFICATION & LIMITATION OF LIABILITY.
+(a) Indemnification. Each Party (“Indemnifying Party”)...",GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.pdf
+R008,Force Majeure,Contract must define force majeure conditions...,NON-COMPLIANT,"21. Force Majeure
+Performance of the parties hereto of their respective obligations hereunder shall ...",StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement.pdf
+R009,Non-Compete,Contract must include non-compete clauses if applicable...,NON-COMPLIANT,"7. NON-COMPETITION
+ 
+7.1 Restrictions
+ 
+You acknowledge and agree that pursuant to this Agreement, y...",SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1.pdf
+R010,Data Protection,Contract must specify data protection requirements...,NON-COMPLIANT,“Data Protection Laws” means any applicable data protection or privacy laws. It shall include: (a) t...,StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement.pdf
+R011,Warranty,Contract must define warranty terms...,NON-COMPLIANT,"terms and provisions of or constitute a default under (i) a loan agreement, guaranty, financing agre...",ParatekPharmaceuticalsInc_20170505_10-KA_EX-10.29_10323872_EX-10.29_Outsourcing Agreement.pdf
+R012,Assignment,Contract must include assignment and transfer provisions...,NON-COMPLIANT,13.5 Assignment . Neither Party may assign or transfer this Agreement or any rights or obligations h...,SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement.pdf
+R013,Amendment,Contract must specify amendment procedures...,NON-COMPLIANT,information that it consents to the amendments as proposed by Harpoon to the Initial Development Pla...,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement_Option Agreement.pdf
+R014,Insurance,Contract must define insurance requirements...,NON-COMPLIANT,"11. Insurance.
+11.1 Requirements to Maintain. During the Term, Manufacturer shall self-insure or sha...",UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement.pdf
+R015,Audit,Contract must include audit rights provisions...,NON-COMPLIANT,"8. AUDIT RIGHTS
+(a) Ehave Right to Audit
+CHT will provide Ehave and its representatives, auditors an...",EhaveInc_20190515_20-F_EX-4.44_11678816_EX-4.44_License Agreement_ Reseller Agreement.pdf

@@ -1,0 +1,142 @@
+{
+  "R001": {
+    "rule": "Contract must specify termination notice period",
+    "category": "Termination",
+    "keywords": [
+      "termination",
+      "notice period",
+      "days notice"
+    ]
+  },
+  "R002": {
+    "rule": "Contract must define confidentiality obligations",
+    "category": "Confidentiality",
+    "keywords": [
+      "confidential",
+      "confidentiality",
+      "non-disclosure"
+    ]
+  },
+  "R003": {
+    "rule": "Contract must include limitation of liability clause",
+    "category": "Liability",
+    "keywords": [
+      "liability",
+      "limitation",
+      "damages"
+    ]
+  },
+  "R004": {
+    "rule": "Contract must specify governing law and jurisdiction",
+    "category": "Legal",
+    "keywords": [
+      "governing law",
+      "jurisdiction",
+      "dispute resolution"
+    ]
+  },
+  "R005": {
+    "rule": "Contract must define intellectual property rights",
+    "category": "IP Rights",
+    "keywords": [
+      "intellectual property",
+      "IP",
+      "ownership",
+      "patent",
+      "copyright"
+    ]
+  },
+  "R006": {
+    "rule": "Contract must include payment terms and schedule",
+    "category": "Payment",
+    "keywords": [
+      "payment",
+      "compensation",
+      "invoice",
+      "fee"
+    ]
+  },
+  "R007": {
+    "rule": "Contract must specify indemnification provisions",
+    "category": "Indemnification",
+    "keywords": [
+      "indemnify",
+      "indemnification",
+      "hold harmless"
+    ]
+  },
+  "R008": {
+    "rule": "Contract must define force majeure conditions",
+    "category": "Force Majeure",
+    "keywords": [
+      "force majeure",
+      "act of god",
+      "unforeseen circumstances"
+    ]
+  },
+  "R009": {
+    "rule": "Contract must include non-compete clauses if applicable",
+    "category": "Non-Compete",
+    "keywords": [
+      "non-compete",
+      "competition",
+      "competitive"
+    ]
+  },
+  "R010": {
+    "rule": "Contract must specify data protection requirements",
+    "category": "Data Protection",
+    "keywords": [
+      "data protection",
+      "privacy",
+      "GDPR",
+      "personal data"
+    ]
+  },
+  "R011": {
+    "rule": "Contract must define warranty terms",
+    "category": "Warranty",
+    "keywords": [
+      "warranty",
+      "guarantee",
+      "representations"
+    ]
+  },
+  "R012": {
+    "rule": "Contract must include assignment and transfer provisions",
+    "category": "Assignment",
+    "keywords": [
+      "assignment",
+      "transfer",
+      "assignable"
+    ]
+  },
+  "R013": {
+    "rule": "Contract must specify amendment procedures",
+    "category": "Amendment",
+    "keywords": [
+      "amendment",
+      "modification",
+      "change"
+    ]
+  },
+  "R014": {
+    "rule": "Contract must define insurance requirements",
+    "category": "Insurance",
+    "keywords": [
+      "insurance",
+      "coverage",
+      "insured"
+    ]
+  },
+  "R015": {
+    "rule": "Contract must include audit rights provisions",
+    "category": "Audit",
+    "keywords": [
+      "audit",
+      "inspection",
+      "examination",
+      "records"
+    ]
+  }
+}

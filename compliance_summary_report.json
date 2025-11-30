@@ -1,0 +1,116 @@
+{
+  "total_rules": 15,
+  "compliant": 0,
+  "non_compliant": 15,
+  "compliance_rate": "0.0%",
+  "categories_checked": [
+    "Termination",
+    "Confidentiality",
+    "Liability",
+    "Legal",
+    "IP Rights",
+    "Payment",
+    "Indemnification",
+    "Force Majeure",
+    "Non-Compete",
+    "Data Protection",
+    "Warranty",
+    "Assignment",
+    "Amendment",
+    "Insurance",
+    "Audit"
+  ],
+  "compliant_sections": [],
+  "non_compliant_sections": [
+    {
+      "Rule": "Contract must specify termination notice period",
+      "Category": "Termination",
+      "Issue": "Yes, this COMPLIANT contract satisfies the rule that requires longer termination notice periods than those set forth above. The contract requires longer notice periods for termination of the agreement",
+      "Remediation": "Add clause addressing: Contract must specify termination notice period"
+    },
+    {
+      "Rule": "Contract must define confidentiality obligations",
+      "Category": "Confidentiality",
+      "Issue": "Yes, the contract complies with the rule as the contract clearly defines the confidentiality obligations. The contract acknowledges that all Confidential Information consists of confidential and propr",
+      "Remediation": "Add clause addressing: Contract must define confidentiality obligations"
+    },
+    {
+      "Rule": "Contract must include limitation of liability clause",
+      "Category": "Liability",
+      "Issue": "The contract is not compliant with the rule as the limitation of liability clause is not included in the contract. The rule requires the limitation of liability clause to be included in the contract. ",
+      "Remediation": "Add clause addressing: Contract must include limitation of liability clause"
+    },
+    {
+      "Rule": "Contract must specify governing law and jurisdiction",
+      "Category": "Legal",
+      "Issue": "Based on the evidence provided, the contract does not comply with the rule as it does not specify the governing law and jurisdiction. The section states that the contract shall be construed in accorda",
+      "Remediation": "Add clause addressing: Contract must specify governing law and jurisdiction"
+    },
+    {
+      "Rule": "Contract must define intellectual property rights",
+      "Category": "IP Rights",
+      "Issue": "Based on the evidence provided in the contract, the contract does not fully comply with the rule as it does not define the intellectual property rights. The contract only mentions identifiers, handles",
+      "Remediation": "Add clause addressing: Contract must define intellectual property rights"
+    },
+    {
+      "Rule": "Contract must include payment terms and schedule",
+      "Category": "Payment",
+      "Issue": "Yes, the contract complies with the rule as the contract includes payment terms and schedule. The contract includes a section 5.3 that outlines the payment terms and schedule. The section 5.3 sets out",
+      "Remediation": "Add clause addressing: Contract must include payment terms and schedule"
+    },
+    {
+      "Rule": "Contract must specify indemnification provisions",
+      "Category": "Indemnification",
+      "Issue": "Yes, the contract is COMPLIANT with the rule as it specifies indemnification provisions. The indemnified party (the Indemnified Party) is entitled to indemnification from the Indemnifying Party (the I",
+      "Remediation": "Add clause addressing: Contract must specify indemnification provisions"
+    },
+    {
+      "Rule": "Contract must define force majeure conditions",
+      "Category": "Force Majeure",
+      "Issue": "The contract in question is not compliant with the rule as it does not define force majeure conditions. The clause \"force majeure\" does not mention any specific events or circumstances that could lead",
+      "Remediation": "Add clause addressing: Contract must define force majeure conditions"
+    },
+    {
+      "Rule": "Contract must include non-compete clauses if applicable",
+      "Category": "Non-Compete",
+      "Issue": "Yes, the contract complies with the rule as it includes non-compete clauses if applicable. The clause states that the contractor will receive valuable specialized training, trade secrets, and confiden",
+      "Remediation": "Add clause addressing: Contract must include non-compete clauses if applicable"
+    },
+    {
+      "Rule": "Contract must specify data protection requirements",
+      "Category": "Data Protection",
+      "Issue": "Yes, the contract complies with the rule as it specifies data protection requirements. The contract includes the EU Data Protection Directive, EU ePrivacy Directive, and the EU General Data Protection",
+      "Remediation": "Add clause addressing: Contract must specify data protection requirements"
+    },
+    {
+      "Rule": "Contract must define warranty terms",
+      "Category": "Warranty",
+      "Issue": "Yes, the contract complies with the rule that requires contracts to define warranty terms. The terms and provisions of or constitute a default under the loan agreement, guaranty, financing agreement, ",
+      "Remediation": "Add clause addressing: Contract must define warranty terms"
+    },
+    {
+      "Rule": "Contract must include assignment and transfer provisions",
+      "Category": "Assignment",
+      "Issue": "Yes, the contract complies with the rule as it includes the provision for assignment and transfer provisions. The provision for assignment and transfer of the contract to a Third Party successor or tr",
+      "Remediation": "Add clause addressing: Contract must include assignment and transfer provisions"
+    },
+    {
+      "Rule": "Contract must specify amendment procedures",
+      "Category": "Amendment",
+      "Issue": "The evidence provided in the rule suggests that the contract does not comply with the rule. The information provided in the contract that it consents to the amendments proposed by Harpoon to the Initi",
+      "Remediation": "Add clause addressing: Contract must specify amendment procedures"
+    },
+    {
+      "Rule": "Contract must define insurance requirements",
+      "Category": "Insurance",
+      "Issue": "Yes, the contract complies with the rule as the insurance requirements defined in the contract are in line with the rule. The contract clearly states that Manufacturer shall self-insure or provide and",
+      "Remediation": "Add clause addressing: Contract must define insurance requirements"
+    },
+    {
+      "Rule": "Contract must include audit rights provisions",
+      "Category": "Audit",
+      "Issue": "The contract does not include audit rights provisions. Therefore, it is not COMPLIANT with the rule.",
+      "Remediation": "Add clause addressing: Contract must include audit rights provisions"
+    }
+  ]
+}
